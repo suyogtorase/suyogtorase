@@ -7,7 +7,7 @@
      width="420"
      alt="Developer coding illustration"/>
 
-<h1>👋 Hi, I'm Suyog Torase</h1>
+<h1 style="border-bottom: none;">👋 Hi, I'm Suyog Torase</h1>
 
 <h3>Full Stack Developer • Problem Solver • Computer Engineering Student</h3>
 
