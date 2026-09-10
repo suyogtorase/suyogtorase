@@ -1,12 +1,17 @@
 <!-- ======================= HEADER ======================= -->
 
-<div align="center">
+<div>
 
-# 👋 Hi, I'm Suyog Torase
+<img align="right"
+     src="./assets/developer.png"
+     width="420"
+     alt="Developer coding illustration"/>
 
-### Full Stack Developer • Problem Solver • Computer Engineering Student
+<h1>👋 Hi, I'm Suyog Torase</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+C%2B%2B+Programmer;Problem+Solver;Building+Scalable+Web+Applications" />
+<h3>Full Stack Developer • Problem Solver • Computer Engineering Student</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&vCenter=true&width=550&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+%7C+C%2B%2B+Programmer;Problem+Solver;Building+Scalable+Web+Applications" />
 
 <br/>
 
@@ -22,7 +27,18 @@
 <img src="https://img.shields.io/github/stars/suyogtorase?label=Stars&style=flat" />
 </a>
 
+<br/>
+<br/>
+
+<p>
+I'm a Computer Engineering student passionate about building
+<strong>full-stack applications, backend systems, real-time applications,
+and efficient software solutions.</strong>
+</p>
+
 </div>
+
+<br clear="right"/>
 
 ---
 
